@@ -1,5 +1,5 @@
 # Road Crack Segmentation: Data Augmentation Visualizations
-
+![RoadCrackAugmentationViz Logo](logo.png)
 This repository contains visual comparisons of 24 different data augmentation techniques applied to road crack images for a graduation paper on Mask R-CNN-based segmentation.
 
 ## Project Overview
